@@ -1,4 +1,4 @@
-#include "EtRobocon2020.h"
+#include "EtRobocon2021.h"
 #include "Controller.h"
 #include "Display.h"
 
@@ -7,7 +7,7 @@
 * エンターボタンを押すと止まる
 * 下ボタンを押すとカラーセンサーのRGBをターミナルに表示する
 */
-void EtRobocon2020::start()
+void EtRobocon2021::start()
 {
   // Controllerクラスを使うためにインスタンス化する
   Controller controller;

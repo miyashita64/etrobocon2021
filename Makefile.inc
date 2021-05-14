@@ -5,7 +5,7 @@ APPL_COBJS +=
 APPL_CXXOBJS += \
     Controller.o \
     Display.o \
-    EtRobocon2020.o \
+    EtRobocon2021.o \
 
 SRCLANG := c++
 
